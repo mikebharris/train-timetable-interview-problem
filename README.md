@@ -6,3 +6,4 @@ An interview problem based around train journeys in South West England in variou
 * Java
 * Python
 * COBOL
+* Haskell

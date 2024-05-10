@@ -1,0 +1,11 @@
+apply plugin: 'java'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // Uncomment the next line to add compile-time dependencies to the main source set
+    // compile()
+    testImplementation('junit:junit:4.13.2')
+}
